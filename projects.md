@@ -1,4 +1,4 @@
-[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Tzu-Hsuan_Yang_Resume_Apr2024.pdf) | [projects](https://thyangjes.github.io//project.html) 
+[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Tzu-Hsuan_Yang_Resume_Apr2024.pdf) | [projects](https://thyangjes.github.io//projects.html) 
 
 This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
 
@@ -14,7 +14,7 @@ This is my protfolio to showcase my academic projects that reflect my interests,
 
 
 
-<ins> State-Level Variation In Low-Value Care  </ins> [[file]](https://thyangjes.github.io//files/.pdf)
+<ins> State-Level Variation In Low-Value Care  </ins> [[file]](https://thyangjes.github.io//files/Dashboard_LowValueCare.pdf)
 
 
 
