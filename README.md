@@ -1,4 +1,4 @@
-[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Tzu-Hsuan_Yang_Resume_Apr2024.pdf) | [projects](https://thyangjes.github.io//projects.html) 
+[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Tzu-Hsuan_Yang_Resume_Apr2024-1.pdf) | [projects](https://thyangjes.github.io//projects.html) 
 
 ### About me
 
