@@ -9,18 +9,16 @@ This is my protfolio to showcase my academic projects that reflect my interests,
 
 
 
-<ins> Predictors of Hemoglobin A1C  </ins>
-
-[file](https://thyangjes.github.io//files/.pdf)
+<ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course Project_JYang.pdf)
 
 
 
-<ins> State-Level Variation In Low-Value Care  </ins>
 
-[file](https://thyangjes.github.io//files/.pdf)
-
+<ins> State-Level Variation In Low-Value Care  </ins> [[file]](https://thyangjes.github.io//files/.pdf)
 
 
-<ins> Multiple Imputation on Missing Values   </ins>
 
-[file](https://thyangjes.github.io//files/.pdf)
+
+<ins> Multiple Imputation on Missing Values   </ins> [[file]](https://thyangjes.github.io//files/BS845 Final Project_JYang_revised.pdf)
+
+
