@@ -9,7 +9,7 @@ This is my protfolio to showcase my academic projects that reflect my interests,
 
 Programming: SAS
 
-The project aimed to explore the relationship between digoxin and mortality and hospitalization using the DIG trial database and further test the hypothesis that the long-term beneﬁcial effects of digoxin are mediated by race, disease severity, previous digoxin use, and study dose prescribed.
+The project used the DIG trial database to explore the relationship between digoxin and mortality and hospitalization and further test the hypothesis that the long-term beneﬁcial effects of digoxin are mediated by race, disease severity, previous digoxin use, and study dose prescribed.
 
 
 ### <ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course%20Project_JYang.pdf)
