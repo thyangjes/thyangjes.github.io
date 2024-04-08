@@ -3,7 +3,7 @@
 This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
 
 
-## Academic Project Deliverables:
+### Academic Project Deliverables:
 
 <ins> Capstone: Effect of Digoxin on Mortality and Hospitalization </ins> [[file]](https://thyangjes.github.io//files/.pdf)
 
