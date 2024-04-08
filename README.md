@@ -8,6 +8,3 @@ Former Clinical Research Associate with relevant work experience in the pharmace
 
 Skilled in data manipulation and statistical model programming in R, SAS, SQL, and MS Excel.
 
-
-
-This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
