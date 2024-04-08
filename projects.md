@@ -16,7 +16,7 @@ The project aimed to explore the relationship between digoxin and mortality and 
 
 Programming: SAS
 
-The project utilized datasets from two published studies focusing on cardiovascular risk factors among African Americans in central Virginia to predict Hemoglobin A1C levels. Data manipulation (cleaning, merging, and variable re-categorization), statistical analyses (two-factor ANOVA, piecewise linear model, and multiple linear regression), and model selection were executed to evaluate the relationship between BMI and Hemoglobin A1C.
+The project utilized datasets from two published studies focusing on cardiovascular risk factors among African Americans in central Virginia to predict Hemoglobin A1C levels. Data manipulation (cleaning, merging, and variable re-categorization), statistical analyses (two-factor ANOVA, piecewise linear model, and multiple linear regression), and model selection were executed to evaluate the relationship between BMI and HbA1C.
 
 The findings of this project revealed that the natural log of HbA1c was a more suitable outcome for assessing the linear relationship with BMI, But the association was no longer observed after adjusting for various predictors including age, sex, total cholesterol, SBP, and waist, highlighting the importance of considering multiple factors in predicting HbA1c levels.
 
