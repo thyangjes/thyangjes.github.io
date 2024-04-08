@@ -1,6 +1,6 @@
 [home](thyangjes.github.io/) | [cv] | [academic projects](https://thyangjes.github.io//project.html) 
 
-#### About me
+### About me
 
 Currently an MPH student studying epidemiology and biostatistics at Boston University School of Public Health.
 
