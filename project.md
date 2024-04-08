@@ -9,7 +9,7 @@ This is my protfolio to showcase my academic projects that reflect my interests,
 
 
 
-<ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course Project_JYang.pdf)
+<ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course%20Project_JYang.pdf)
 
 
 
@@ -19,6 +19,6 @@ This is my protfolio to showcase my academic projects that reflect my interests,
 
 
 
-<ins> Multiple Imputation on Missing Values   </ins> [[file]](https://thyangjes.github.io//files/BS845 Final Project_JYang_revised.pdf)
+<ins> Multiple Imputation on Missing Values   </ins> [[file]](https://thyangjes.github.io//files/BS845 Final%20Project_JYang_revised.pdf)
 
 
