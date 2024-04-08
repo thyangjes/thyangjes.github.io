@@ -3,14 +3,14 @@
 This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
 
 
-### Academic Project Deliverables
+## Academic Project Deliverables
 
-<ins> Capstone: Effect of Digoxin on Mortality and Hospitalization </ins> [[file]](https://thyangjes.github.io//files/.pdf)
-
-
+### <ins> Capstone: Effect of Digoxin on Mortality and Hospitalization </ins> [[file]](https://thyangjes.github.io//files/.pdf)
 
 
-<ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course%20Project_JYang.pdf)
+
+
+### <ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course%20Project_JYang.pdf)
 
 Programming: SAS
 
@@ -20,7 +20,7 @@ The findings of this project revealed that the natural log of HbA1c was a more s
 
 
 
-<ins> State-Level Variation In Low-Value Care  </ins> [[file]](https://thyangjes.github.io//files/Dashboard_LowValueCare.pdf)
+### <ins> State-Level Variation In Low-Value Care  </ins> [[file]](https://thyangjes.github.io//files/Dashboard_LowValueCare.pdf)
 
 Programming: Microsoft Excel
 
@@ -30,7 +30,7 @@ Key objectives for the dashboard included measuring healthcare inefficiency in t
 
 
 
-<ins> Multiple Imputation on Missing Values   </ins> [[file]](https://thyangjes.github.io//files/BS845%20Final%20Project_JYang_revised.pdf)
+### <ins> Multiple Imputation on Missing Values   </ins> [[file]](https://thyangjes.github.io//files/BS845%20Final%20Project_JYang_revised.pdf)
 
 Programming: R
 
