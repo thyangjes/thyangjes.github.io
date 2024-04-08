@@ -3,7 +3,10 @@
 About me
 
 Currently an MPH student studying epidemiology and biostatistics at Boston University School of Public Health. 
+
 Former Clinical Research Associate with relevant work experience in the pharmaceutical/biotech industry.
+
 Skilled in data manipulation and statistical model programming in R, SAS, SQL, and MS Excel.
+
 
 This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
