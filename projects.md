@@ -5,11 +5,14 @@ This is my protfolio to showcase my academic projects that reflect my interests,
 
 ## Academic Project Deliverables
 
-### <ins> Capstone: Effect of Digoxin on Mortality and Hospitalization </ins> [work in progress]
+### <ins> Capstone: Effect of Digoxin on Mortality and Hospitalization </ins> [[file]](https://thyangjes.github.io//files/ILE_Fianl Report_JYang.pdf)
 
 Programming: SAS
 
 The project used the DIG trial database to explore the relationship between digoxin and mortality and hospitalization and further test the hypothesis that the long-term beneﬁcial effects of digoxin are mediated by race, disease severity, previous digoxin use, and study dose prescribed.
+
+This project highlighted the protective effects of Digoxin against worsening heart failure (WHF) and hospitalization due to cardiovascular disease (CVD) in patients with severe heart failure and poor prognosis. Findings suggested that Digoxin may offer more pronounced protection against CVD hospitalization in patients with fewer symptoms of congestive heart failure or those receiving a higher daily dose of the study drug. 
+
 
 
 ### <ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course%20Project_JYang.pdf)
