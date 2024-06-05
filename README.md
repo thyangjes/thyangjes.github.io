@@ -6,5 +6,5 @@ Currently an MPH student studying epidemiology and biostatistics at Boston Unive
 
 Former Clinical Research Associate with relevant work experience in the pharmaceutical and biotech industry.
 
-Skilled in data manipulation and statistical model programming in R, SAS, SQL, and MS Excel.
+Skilled in data manipulation and statistical model programming in R, SAS, SQL, Python, and MS Excel.
 
