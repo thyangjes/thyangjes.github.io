@@ -1,4 +1,4 @@
-[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/JessyYang_Resume_Oct2024.pdf) | [projects](https://thyangjes.github.io//projects.html) 
+[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/JessyYang_Resume_Oct2024.pdf) | [projects](https://thyangjes.github.io//projects.html) | [publications](https://thyangjes.github.io//publications.html) 
 
 This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
 
