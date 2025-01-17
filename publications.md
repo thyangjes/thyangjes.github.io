@@ -1,10 +1,12 @@
 [home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/JessyYang_Resume_Oct2024.pdf) | [projects](https://thyangjes.github.io//projects.html) | [publications](https://thyangjes.github.io//publications.html) 
 
-## Working paper:
+## Working paper
 
 **<ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>**
 
-## Poster:
+  <br />
+
+## Poster
 
 **<ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>**
 
@@ -12,7 +14,6 @@
   <br />
 International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washington DC, August 2025 (In preparation)
 
-  <br />
   
 **<ins> Improving the parent experience when diagnosing vascular anomalies: a survey study </ins>**
     
