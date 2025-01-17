@@ -2,20 +2,20 @@
 
 ## Working paper
 
-**<ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>**
+### <ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>
 
   <br />
 
 ## Poster
 
-**<ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>**
+### <ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>
 
 **Tzu-Hsuan Yang**, Rebecca Persson, Zarena Jafry, et al. 
   <br />
 International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washington DC, August 2025 (In preparation)
 
   
-**<ins> Improving the parent experience when diagnosing vascular anomalies: a survey study </ins>**
+### <ins> Improving the parent experience when diagnosing vascular anomalies: a survey study </ins>
     
 Hyo Jin Cho, **Tzu-Hsuan Yang**, Alexis Navarro, Margaret S Lee MD, PhD. 
   <br />
