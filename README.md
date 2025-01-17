@@ -1,4 +1,4 @@
-[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Yang, Jessy_resume_Jan 2025.pdf) | [projects](https://thyangjes.github.io//projects.html) | [publications](https://thyangjes.github.io//publications.html) 
+[home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Yang,Jessy_resume_Jan2025.pdf) | [projects](https://thyangjes.github.io//projects.html) | [publications](https://thyangjes.github.io//publications.html) 
 
 ### About me
 
