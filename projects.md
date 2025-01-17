@@ -1,8 +1,5 @@
 [home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Yang,Jessy_resume_Jan2025.pdf) | [projects](https://thyangjes.github.io//projects.html) | [publications](https://thyangjes.github.io//publications.html) 
 
-This is my protfolio to showcase my academic projects that reflect my interests, skills, and aspirations. 
-
-
 ## Academic Project Deliverables
 
 ### <ins> Capstone: Effect of Digoxin on Mortality and Hospitalization </ins> [[file]](https://thyangjes.github.io//files/ILE_Fianl%20Report_JYang.pdf)
@@ -19,6 +16,7 @@ The project used the DIG trial database to explore the relationship between digo
 
 </details>     
 
+  
 ### <ins> Predictors of Hemoglobin A1C  </ins> [[file]](https://thyangjes.github.io//files/BS805_Course%20Project_JYang.pdf)
 
 Programming: SAS
@@ -33,6 +31,7 @@ The project utilized datasets from two published studies focusing on cardiovascu
 
 </details>   
 
+  
 ### <ins> State-Level Variation In Low-Value Care  </ins> [[file]](https://thyangjes.github.io//files/Dashboard_LowValueCare.pdf)
 
 Programming: Microsoft Excel
@@ -47,6 +46,7 @@ The project utilized administrative claims data from Optum and focused on low-va
 
 </details>   
 
+  
 ### <ins> Multiple Imputation on Missing Values   </ins> [[file]](https://thyangjes.github.io//files/BS845%20Final%20Project_JYang_revised.pdf)
 
 Programming: R
