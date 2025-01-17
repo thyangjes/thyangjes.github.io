@@ -1,6 +1,6 @@
 [home](thyangjes.github.io/) | [cv](https://thyangjes.github.io//files/Yang,Jessy_resume_Jan2025.pdf) | [projects](https://thyangjes.github.io//projects.html) | [publications](https://thyangjes.github.io//publications.html) 
 
-### About me
+## About me
 
 MPH graduate with a major in epidemiology and biostatistics at Boston University School of Public Health.
 
