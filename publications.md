@@ -16,7 +16,7 @@ International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washing
 
   <br />
   
-### <ins> Improving the parent experience when diagnosing vascular anomalies: a survey study </ins>
+### <ins> Improving the Parent Experience when Diagnosing Vascular Anomalies: A Survey Study </ins>
     
 Hyo Jin Cho, **Tzu-Hsuan Yang**, Alexis Navarro, Margaret S Lee MD, PhD. 
   <br />
