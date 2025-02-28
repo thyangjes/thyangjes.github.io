@@ -6,16 +6,32 @@
 
   <br />
 
-## Poster
+## Conference Poster
 
-### <ins> Risk of serious cardiovascular events among female users of osteoporosis treatments </ins>
+### <ins> Evaluating the Risk of Stroke among Female Patients using Osteoporosis Treatments </ins>
 
 **Tzu-Hsuan Yang**, Rebecca Persson, Zarena Jafry, et al. 
   <br />
-International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washington DC, August 2025 (In preparation)
+International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washington DC, August 2025 (Submitted)
 
   <br />
-  
+
+### <ins> Osteoporosis Treatments and the Risk of Myocardial Infarction in Female Patients </ins>
+
+**Tzu-Hsuan Yang**, Rebecca Persson, Zarena Jafry, et al. 
+  <br />
+International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washington DC, August 2025 (Submitted)
+
+  <br />
+
+### <ins> Risk of Incident Atrial Fibrillation among Female Users of Osteoporosis Treatments </ins>
+
+**Tzu-Hsuan Yang**, Rebecca Persson, Zarena Jafry, et al. 
+  <br />
+International Society for Pharmacoepidemiology (ISPE) Annual Conference, Washington DC, August 2025 (Submitted)
+
+  <br />
+    
 ### <ins> Improving the Parent Experience when Diagnosing Vascular Anomalies: A Survey Study </ins>
     
 Hyo Jin Cho, **Tzu-Hsuan Yang**, Alexis Navarro, Margaret S Lee MD, PhD. 
